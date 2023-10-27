@@ -28,6 +28,9 @@ cppgfplots.h --- my library for plotting:
 
 #+LATEX_HEADER: \usepackage{pgfplots}
 
+It's recommended to set version explicitly:
+#+LATEX_HEADER: \pgfplotsset{compat=1.18}
+
 I also frequently draw images in Inkscape, add support for svg:
 
 #+LATEX_HEADER: \usepackage{svg}
