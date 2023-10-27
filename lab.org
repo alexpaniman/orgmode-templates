@@ -53,7 +53,7 @@ cppgfplots.h library.
 I should add a link to install it (or do it automatically) in the
 future TODO: this.
 
-#+PROPERTY: header-args:cpp :includes <cppgfplots.h> :results outputs drawer :exports results :flags "--std=c++20"
+#+PROPERTY: header-args:cpp :includes <cppgfplots.h> :results outputs drawer :exports results :flags "--std=c++20" :cache yes
 
 * Configuration
 
