@@ -1,5 +1,5 @@
 Disable table of contents, section numbering and data by-default:
-#+OPTIONS: toc:nil num:nil date:nil
+#+OPTIONS: toc:nil num:nil date:nil ':t
 
 Latex class "extarticle" allows to use bigger font sizes, which is
 nice (see it's configuration below in Configuration section)
